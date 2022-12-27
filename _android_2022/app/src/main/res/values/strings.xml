@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="title_home">Meal</string>
+    <string name="title_order">Order</string>
+    <string name="title_complain">Complain</string>
+    <string name="title_cook">Cook</string>
+    <string name="spin_type">Order</string>
+    <string name="spin_cuisine_type">Order</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="type">
+        <item>main dish</item>
+        <item>soup</item>
+        <item>desert</item>
+    </string-array>
+    <string-array name="type_cuisine">
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Greek</item>
+    </string-array>
+    <string-array name="hour">
+        <item>0:00</item>
+        <item>1:00</item>
+        <item>2:00</item>
+        <item>3:00</item>
+        <item>4:00</item>
+        <item>5:00</item>
+        <item>6:00</item>
+        <item>7:00</item>
+        <item>8:00</item>
+        <item>9:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+    </string-array>
+    <string-array name="status">
+        <item>cancel</item>
+        <item>order</item>
+        <item>cancel by admin</item>
+    </string-array>
+</resources>
